@@ -1,0 +1,6 @@
+{
+  "name": "Student-Admin Portal",
+  "description": "A comprehensive portal for students to submit work and administrators to manage assignments, grades, and feedback, integrated with Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
